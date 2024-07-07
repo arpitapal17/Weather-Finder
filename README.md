@@ -1,4 +1,4 @@
-# Weather-Finder
+
 Overview:
 The Weather Finder project is a web application built using React.js and styled with Material-UI, designed to provide users with real-time weather information for different locations. Users can search for a city or region and view current weather details such as temperature, humidity, wind speed, and weather conditions.
 
